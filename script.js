@@ -1,1 +1,1 @@
-alert("salut mec ça va ?")
+window.alert("salut mec ça va ?")
